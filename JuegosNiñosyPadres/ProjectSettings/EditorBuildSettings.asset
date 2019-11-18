@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI_ChooseCharacter.unity
     guid: 03671d688a414d046bb9f36146c23cbf
+  - enabled: 1
+    path: Assets/Scenes/UI_Map.unity
+    guid: ae7fb68e3f0ee514e99c17b4dc46ad22
   m_configObjects: {}
