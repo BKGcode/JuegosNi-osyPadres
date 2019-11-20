@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI_Map.unity
     guid: ae7fb68e3f0ee514e99c17b4dc46ad22
+  - enabled: 1
+    path: Assets/Scenes/UI_ChooseSon-Dad.unity
+    guid: 9ca7eb79bd203184ea0d5a623286fe28
   m_configObjects: {}
